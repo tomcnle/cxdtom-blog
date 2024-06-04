@@ -48,7 +48,7 @@ footer-links:
   instagram: 
   linkedin: tomconnole
   rss: # just type anything here for a working RSS icon
-  twitter: tomcnle
+  twitter: cxdtom
 
 plugins:
   - jekyll-seo-tag
